@@ -1,0 +1,18 @@
+gulin@DESKTOP-S1JBN20 MINGW64 ~/Merve
+$ cd github
+
+gulin@DESKTOP-S1JBN20 MINGW64 ~/Merve/github
+$ cd curios
+
+gulin@DESKTOP-S1JBN20 MINGW64 ~/Merve/github/curios (master)
+$ git checkout -b html
+Switched to a new branch 'html'
+
+gulin@DESKTOP-S1JBN20 MINGW64 ~/Merve/github/curios (html)
+$ ls -a
+./  ../  .git/  README.md
+
+gulin@DESKTOP-S1JBN20 MINGW64 ~/Merve/github/curios (html)
+$
+
+
